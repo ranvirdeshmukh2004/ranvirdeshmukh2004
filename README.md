@@ -7,8 +7,10 @@
 <br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/ranvirdeshmukh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:works.ranvirdeshmukh@gmail.com"><img src="https://img.shields.io/badge/Email-works.ranvirdeshmukh%40gmail.com-blue?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ranvirdeshmukh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Ranvirdeshmukh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.skills.google/public_profiles/f54c3a7d-964c-427b-a4cc-bc0e92072ea3"><img src="https://img.shields.io/badge/Google_Skills-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Skills" /></a>
+  <a href="mailto:works.ranvirdeshmukh@gmail.com"><img src="https://img.shields.io/badge/Email-works.ranvirdeshmukh%40gmail.com-blue?logo=gmail&logoColor=white&style=flat-square" alt="Email" /></a>
 </div>
 
 ---
@@ -23,46 +25,35 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-
-**Machine Learning & AI:**  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
-<img src="https://img.shields.io/badge/Predictive_Analytics-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="Predictive Analytics"/>
-
-**Frameworks & Libraries:**  
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js"/>
-
-**Tools & Infrastructure:**  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
-
----
-
-### 🚀 Featured Projects & Research
-
-#### 🛡️ **Few-Shot Adaptive Edge-Optimized Intrusion Detection (EO-IDS)**
-*An AI-powered security model designed for edge environments.*
-* Developed a specialized PyTorch-based intrusion detection system.
-* Optimized for deployment on resource-constrained edge devices like Raspberry Pi.
-
-#### 🏡 **AI-Powered Property Price Predictor**
-*A full-stack predictive web application for the Pune real estate market.*
-* Built the frontend using **React.js** and developed a robust backend REST API with **FastAPI**.
-* Trained and integrated an **XGBoost** machine learning model to analyze and predict real estate trends across specific regional corridors.
-
-#### 🌍 **Predictive Analytics for Identifying Trafficking Hotspots**
-*A data-driven research initiative focusing on sustainability and societal impact.*
-* Utilized machine learning techniques to map and predict potential trafficking zones.
-* Drafted comprehensive research documentation and presented findings on the intersection of technology and society.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</p>
 
 ---
 
