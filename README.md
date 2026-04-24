@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Ranvir!&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20,I'm%20Ranvir!&fontSize=50&animation=fadeIn" alt="Header" />
 </div>
 
-<h3 align="center">Computer Science Engineering Student @ Vellore Institute of Technology (VIT) | ML & Deep Learning Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student @ Vellore Institute of Technology, Chennai Campus (VITC) | ML & Deep Learning Enthusiast</h3>
 
 <br />
 
